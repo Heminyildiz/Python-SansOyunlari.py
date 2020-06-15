@@ -47,10 +47,3 @@ input("*****Çıkmak için ENTER'a basınız*****")
 
 
 
-# def sayLo(başlangıç=1, bitiş=49, adet=6):
-#     sayilar = set()
-#     while len(sayilar) < adet:
-#         sayilar.add(random.randrange(başlangıç, bitiş))
-
-    # return sayilar
-    # print("Şanslı sayınız: {sayilar}")
