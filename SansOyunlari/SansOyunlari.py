@@ -45,5 +45,4 @@ else:
 print("İyi Şanslar!!")
 input("*****Çıkmak için ENTER'a basınız*****")
 
-
-
+# Kullanıcıdan farklı kolon seçenekleriyle ilgili veri alınabilir!!
